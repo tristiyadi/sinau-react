@@ -2,4 +2,4 @@
 
 dari developer circle facebook jakarta
 
-link app https://app.netlify.com/sites/relaxed-keller-94ea79/deploys/
+link app https://relaxed-keller-94ea79.netlify.com/
